@@ -8,7 +8,7 @@ In this repository, under app/src folder, u can find an example of use (download
 
 
 
-## Yes but how do I get the Texture?
+## Yes, but how do I get the Texture?
 
 By including the bmp_parser.h in your file u have the bmpp_get_texture(...) method available:
 ```go
